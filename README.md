@@ -22,11 +22,7 @@ Cierra el modal de confirmación.
 # Pasos para ejecutar el script
 
 ## Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
-```
+git clone  + enlace a este repositorio
 
 ### instalar dependencias
 npm install
