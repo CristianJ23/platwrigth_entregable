@@ -19,9 +19,14 @@ Envía el formulario.
 Cierra el modal de confirmación.
 
 ##  Pasos para ejecutar el script
-### clonar eel repositorio
+# Pasos para ejecutar el script
+
+## Clonar el repositorio
+
+```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
 cd nombre-del-repo
+```
 
 ### instalar dependencias
 npm install
